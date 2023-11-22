@@ -1,4 +1,10 @@
-# Algolia plugin for Craft CMS
+> [!IMPORTANT]
+>
+> **This plugin is no longer maintained.**
+>
+> We recommend the [Scout plugin](https://plugins.craftcms.com/scout) instead.
+
+# Algolia for Craft CMS
 
 Algolia search-as-a-service integration for Craft CMS.
 
